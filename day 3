@@ -1,0 +1,25 @@
+# Day 03 - Introduction to CSS
+
+## Goal for Today
+
+- Learn the basics of CSS
+- Understand selectors
+- Style yesterday's registrations page.
+
+## What I Learned
+After spending two days building webpage structure. I finally learned how to style it.
+
+Topics covered:
+
+- CSS syntax
+-  Selectors
+- Classes and IDs
+- Colors
+- Backgrounds
+- Fonts
+- Borders
+- Margins
+- Padding
+- External stylesheets
+
+I also learned the importance of separating HTML from CSS to improve maintainability.
