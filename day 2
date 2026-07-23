@@ -1,0 +1,27 @@
+# Day 02 - Semantic HTML & Forms
+
+## Goal for Today
+
+- Learn semantic HTML
+- Understand forms
+- Build a registration page
+
+## What I Learned
+Focus was writing cleaner and more meaningful HTML.
+
+Topics covered:
+
+- Semanctic elements
+- `<header>`
+- `<nav>`
+- `<main>`
+- `<section>`
+- `<article>`
+- `<footer>`
+- HTMl forms
+- Labels
+- Input types
+- Validation attributes
+- Buttons
+
+I learned why semantic HTML improves accessibility and search engine optimization. Using descriptive tags also make code easier to understand.
