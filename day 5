@@ -1,0 +1,24 @@
+# Day 05 - Mastering Flexbox
+
+## Goal for Today
+
+- Learn Flexbox thoroughly
+- Build responsive layouts
+- Create a navigation bar
+
+## What I Learned
+Today's topic was Flexbox, one of the most useful CSS layout systems.
+
+Topics covered:
+
+- Flex containers
+- FLex items
+- `justify-content`
+- `align-items`
+- `flex-directions`
+- `gap`
+- `flex-wrap`
+- `align-self`
+- `order`
+
+I praticed creating layouts without using floats or manual positioning. It quickly became clear why Flexbox is considered essential for modern web development.
