@@ -1,0 +1,26 @@
+# Day 04 - Understanding the CSS Box Model
+
+## Goal for Today
+
+- Understand the CSS Box Model
+- Learn spacing and sizing concepts
+- Improve yesterday's registration page using proper layouts
+
+## What I Learned
+Focus was understanding how browsers calculate the size of every HTML element. I learned that every element is essentially a box consisting of:
+
+- Content
+- Padding
+- Border
+- Margin
+
+I also explored:
+
+- `display` property
+- `width` and `height`
+- `max-width`
+- `box-sizing`
+- `overflow`
+- Browser developer tools for inspecting element dimensions
+
+One important concept was using `box-sizing`: `border-box`, which makes layouts much easier to manage because padding and borders are included in the elements total width and height.
